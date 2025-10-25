@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as **Software Developer & Engineering Analyst** at [Pollux](https://www.pollux.com.br/) (Accenture Group)
+- 🔭 Currently working as **Software Developer & Engineering Analyst** at **Accenture**
 - 🎓 **Master's Degree** in Electronic Systems Engineering - **UFSC** (Focus: Embedded Systems & LLMs for Software Testing)
 - 🏭 Specialized in **Industry 4.0**, **Industrial Automation** and **IoT Integration**
 - 💼 Experience with **PLCs**, cameras, readers, and printers integration
@@ -64,7 +64,7 @@
 class JeanMira:
     def __init__(self):
         self.role = "Software Developer & Engineering Analyst"
-        self.company = "Pollux (Accenture Group)"
+        self.company = "Accenture"
         self.education = {
             "masters": "Electronic Systems Engineering - UFSC",
             "bachelors": "Mechatronics Engineering",
